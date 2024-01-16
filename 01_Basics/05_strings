@@ -1,0 +1,12 @@
+// Strings 
+
+//string concatination
+
+let name  = 'lokesh';
+let age = 19;
+
+let concatstr = name + age ;
+
+console.log(`String after concatination is ${concatstr}` );
+
+// some methods 1. indexOf() 2. chartAt() 3.toUpperCase() 4.toLowercase
