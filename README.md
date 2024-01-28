@@ -1,2 +1,2 @@
 # JS-code
-A code repo for js 
+A code repo for Js which i have praticed
